@@ -13,7 +13,7 @@
 
 # Welcome to your new notebook
 # Type here in the cell editor to add code!
-print("Welcome to DP-700")
+print("Modifié depuis GitHub")
 
 # METADATA ********************
 
